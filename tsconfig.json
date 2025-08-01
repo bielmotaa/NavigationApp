@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "strict": true, // para que certos erros sejam tratados,  existe componentes que sem isso ele dá erro
     "paths": {
       "@/*": ["./src/*"]
     }
