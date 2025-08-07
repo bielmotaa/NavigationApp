@@ -5,8 +5,8 @@
 // Product: { id: string };
 
 export type RootStackParamList = {
-    Home: undefined;
-    Product: undefined;
+    home: undefined;
+    product: undefined;
 };
 
 
